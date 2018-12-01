@@ -6,7 +6,8 @@ Simple tweet bot using serverless framework
 If yet serverless framework not been installed. Please install from the following URL
 https://serverless.com/framework/docs/providers/aws/guide/installation/
 
-1. get API key from developer.twitter.com
+1. Get API key from developer.twitter.com  
+https://developer.twitter.com/
 
 2. Clone `serverless-twitter-bot` from github
 ```bash
@@ -65,7 +66,7 @@ serverless deploy
 ```
 
 ## Usage
-Store text file in S3
+Store text file in S3  
 Once every ten minutes. Randomly tweet  from text files stored in S3 
 
 ## License
