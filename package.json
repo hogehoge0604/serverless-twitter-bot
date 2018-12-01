@@ -1,0 +1,13 @@
+{
+  "name": "serverless-twitter-bot",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.368.0",
+    "dateformat": "^3.0.3",
+    "serverless-client-s3": "git://github.com/serverless/serverless-client-s3.git",
+    "twitter": "^1.7.1"
+  }
+}
